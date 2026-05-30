@@ -9,8 +9,41 @@ a single Android Studio project.
 > and meditation tool, **not** a medical device, and its biometric readings are not
 > clinical-grade.
 
-<img width="200" height="300" alt="main" src="https://github.com/user-attachments/assets/55c71f98-30f9-4446-9dfe-5d503588c92f" />
 
+### Main and Modes
+<table>
+  <tr>
+    <td><img width="200" height="300" alt="main" src="https://github.com/user-attachments/assets/55c71f98-30f9-4446-9dfe-5d503588c92f" /></td>
+    <td><img width="200" height="300" alt="mode_1" src="https://github.com/user-attachments/assets/78f7ee88-8df3-4e84-9af2-abf1d89e3bf2" /></td>
+    <td><img width="200" height="300" alt="mode_2" src="https://github.com/user-attachments/assets/47041e5b-c495-4c2d-911c-417f1922339a" /></td>
+  </tr>
+</table>
+
+### Sessions
+<table>
+  <tr>
+    <td><img width="200" height="300" alt="session_1" src="https://github.com/user-attachments/assets/634c532e-65ad-4bdb-adaf-ea8e23c9317d" /></td>
+    <td><img width="200" height="300" alt="session_2" src="https://github.com/user-attachments/assets/22cf2e0d-7ebc-4df9-8fe3-05ab03b896b7" /></td>
+    <td><img width="200" height="300" alt="session_complete_1" src="https://github.com/user-attachments/assets/77ed81cd-e997-4ff2-941a-d2200113554a" /></td>
+  </tr>
+</table>
+
+### Settings and Completions
+<table>
+  <tr>
+    <td><img width="200" height="300" alt="settings_1" src="https://github.com/user-attachments/assets/2f05ca2c-871e-418e-906b-f9c41138b423" /></td>
+    <td><img width="200" height="300" alt="session_complete_3" src="https://github.com/user-attachments/assets/5f6cacf3-0d70-4b34-a620-d690485cfff0" /></td>
+    <td><img width="200" height="300" alt="session_complete_2" src="https://github.com/user-attachments/assets/0b2b571c-6b97-421e-b78b-1fa39ff3362c" /></td>
+  </tr>
+</table>
+
+### Targets and Settings
+<table>
+  <tr>
+    <td><img width="200" height="300" alt="targets" src="https://github.com/user-attachments/assets/139fd896-fe3e-4cd4-b0ba-37535d1593f3" /></td>
+    <td><img width="200" height="300" alt="settings_2" src="https://github.com/user-attachments/assets/8127501e-4dad-488d-abd7-188fb6fc3baf" /></td>
+  </tr>
+</table>
 
 ## What it does
 
