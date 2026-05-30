@@ -149,6 +149,3 @@ same thing.
   on-device; for the most natural sound, install Google's neural voices as noted above.
   If only the basic voice appears, the device hasn't downloaded higher-quality voice
   data yet.
-- Couldn't run a full Gradle compile in the authoring environment — verified by hand
-  (bracket balance, icon names, cross-references). The first sync may surface a minor
-  tweak.
