@@ -5,9 +5,12 @@ biometrics from a MOYOUNG-V2 / P58 smartwatch, binaural-beat induction audio, sp
 stage guidance, and session notes. A native port of the `crv_research` Python tool into
 a single Android Studio project.
 
-> CRV and binaural entrainment are unproven practices. Shepherd is a personal research
+> Shepherd is a personal research
 > and meditation tool, **not** a medical device, and its biometric readings are not
 > clinical-grade.
+
+<img width="1080" height="2340" alt="main" src="https://github.com/user-attachments/assets/55c71f98-30f9-4446-9dfe-5d503588c92f" />
+
 
 ## What it does
 
