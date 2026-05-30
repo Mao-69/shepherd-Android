@@ -9,7 +9,7 @@ a single Android Studio project.
 > and meditation tool, **not** a medical device, and its biometric readings are not
 > clinical-grade.
 
-<img width="100" height="200" alt="main" src="https://github.com/user-attachments/assets/55c71f98-30f9-4446-9dfe-5d503588c92f" />
+<img width="200" height="300" alt="main" src="https://github.com/user-attachments/assets/55c71f98-30f9-4446-9dfe-5d503588c92f" />
 
 
 ## What it does
