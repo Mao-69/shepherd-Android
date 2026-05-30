@@ -113,32 +113,6 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 JDK 17 (bundled with current Android Studio) required.
 
-## Project layout
-
-```
-app/src/main/java/com/shepherd/
-├── MainActivity.kt              # permissions + entry point
-├── ble/                         # corrected MOYOUNG-V2 / P58 stack
-│   ├── Moyoung.kt   MoyoungPacket.kt   P58Manager.kt   BleScanner.kt
-├── audio/
-│   ├── FocusProfiles.kt         # per-Focus frequencies (ported from audio.py)
-│   ├── BinauralEngine.kt        # AudioTrack synthesis: carriers, AM, pink noise
-│   └── VoiceEngine.kt           # TTS stage cues + coordinate vocalization
-├── session/
-│   ├── Protocol.kt              # stages, timing tiers, coordinate generator
-│   ├── GuidanceScripts.kt       # built-in modes + user script library
-│   ├── Profile.kt               # user display name + generated viewer ID
-│   ├── TargetPool.kt            # Wikimedia fetch, image import, encrypted pool, reveal
-│   └── SessionEngine.kt         # stage machine, audio/vitals/coord orchestration
-└── ui/
-    ├── Theme.kt                 # dark + light schemes, Palette helper
-    ├── Glass.kt                 # frosted cards, top bar, bottom nav
-    ├── Backgrounds.kt           # built-in designs + custom image backgrounds
-    ├── ShepherdLogo.kt          # vector brand mark
-    ├── MainViewModel.kt         # wiring, profile/onboarding, theme + voice persistence
-    └── Screens.kt               # onboarding, tabbed shell, session, editor (Compose)
-```
-
 ## Watch communication
 
 The BLE layer mirrors the proven `gatttool` driver from the research tool. Crucially it
